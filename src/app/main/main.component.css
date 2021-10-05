@@ -1,0 +1,13 @@
+
+.trending-tittle{
+    background-color: red;
+}
+.headline{
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}
+
+.headline:hover{
+    color:lightcoral;
+}
